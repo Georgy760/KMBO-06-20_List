@@ -10,7 +10,7 @@
 # 7)Денисов Сергей Алексеевич [https://github.com/STRIKER-oss/STRIKEer]
 # 8)Евстратов Алексей Викторович []
 # 9)Козлов Алексей Игоревич []
-# 10)Колокути Георгий Геннадьевич (gosha@kolokutin.com) [https://github.com/Georgy760/Julia_Labs]
+# 10)Колокути Георгий Геннадьевич (gosha@kolokutin.com) [https://github.com/Georgy760/OOP]
 # 11)Кривочкин Александр Михайлович [https://github.com/AlexMK06/KeK]
 # 12)Новиков Никита Денисович
 # 13)Оганнисян Вардан Арменович []
