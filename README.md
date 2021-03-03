@@ -6,7 +6,7 @@
 # 3)Варакин Даниил Витальевич [https://github.com/V-Daniil2-V/OOP_Sem2]
 # 4)Волошин Павел Дмитриевич [https://github.com/PavelKeep/OOP_Sem2]
 # 5)Ганиев Абдулатиф Абдумуминович []
-# 6)Гюльмамедов Глед Денисович [https://github.com/GlebKa4G/OOP_HM]
+# 6)Гюльмамедов Глеб Денисович [https://github.com/GlebKa4G/OOP_HM]
 # 7)Денисов Сергей Алексеевич [https://github.com/STRIKER-oss/STRIKEer]
 # 8)Дримблёв Георгий []
 # 9)Евстратов Алексей Викторович []
